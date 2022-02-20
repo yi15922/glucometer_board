@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=electrode_ref Pin=strip-0
+Removed Pin From Net: NetName=electrode_working Pin=strip-2
+Added Pin To Net: NetName=electrode_working Pin=strip-0
+Added Pin To Net: NetName=electrode_ref Pin=strip-2
