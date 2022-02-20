@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=3V3 Pin=Arduino-2
+Removed Pin From Net: NetName=BIAS Pin=Arduino-4
+Removed Pin From Net: NetName=GND Pin=Arduino-14
+Removed Pin From Net: NetName=GND Pin=Arduino-19
+Change Component DesignItemId : Designator=Arduino Old DesignItemId=ABX00027 New DesignItemId=A000005
+Change Component Footprint: Designator=Arduino Old Footprint=MODULE_ABX00027 New Footprint=MODULE_A000005
+Change Component Comment : Designator=Arduino Old Comment=ABX00027 New Comment=A000005
+Change Component Description : Designator=Arduino Old Description=ATSAMD21G18A Arduino Nano 33 IoT SAM D ARM® Cortex®-M0 + MCU هی�|ت مدیره ارزیابی جاسازی شده 32 بیتی New Description=CLOCK SAW OSCILLATOR SEAM7050 T&
+Change component parameters: Designator = "Arduino" ("Arduino"); Footprint = "MODULE_ABX00027"; UniqueID = "\WCEJCUKV" ("\WCEJCUKV")
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "SPA000005J-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/diodes-incorporated/SPA000005J/SPA000005J-ND/9769570?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Arduino"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "A000005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/A000005/Arduino/view-part/51027/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Arduino-4
+Added Pin To Net: NetName=3V3 Pin=Arduino-17
+Added Pin To Net: NetName=BIAS Pin=Arduino-19
+Added Pin To Net: NetName=GND Pin=Arduino-29
+Added Pin To Net: NetName=ADC Pin=amp-8
+Added Pin To Net: NetName=ADC Pin=Arduino-21
+Added Pin To Net: NetName=ADC Pin=C2-1
+Added Net: Name=ADC

@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [glucometer_board.PrjPcb]
+   Generated File[glucometer_pcb.TXT]
+   Generated File[glucometer_pcb.LDP]
+   Generated File[glucometer_pcb.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 8:28:52 PM On 2/19/2022

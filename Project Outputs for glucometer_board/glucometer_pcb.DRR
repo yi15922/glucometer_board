@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: glucometer_pcb.PcbDoc   2/19/2022  8:28:52 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : glucometer_pcb.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      32mil (0.8mm)                                             Round             4         PTH        1.74inch (44.08mm)
+T2      33mil (0.85mm)                                            Round             8         PTH        2.75inch (69.82mm)
+T3      35mil (0.9mm)                                             Round             14        PTH        1.70inch (43.18mm)
+T4      39mil (0.99mm)                                            Round             4         PTH        0.61inch (15.50mm)
+T5      39mil (1mm)                                               Round             30        PTH        4.20inch (106.68mm)
+T6      51mil (1.3mm)                                             Round             6         PTH        0.70inch (17.78mm)
+T7      65mil (1.651mm)                                           Round             4         NPTH       2.80inch (71.12mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              70
+
+Total Processing Time (hh:mm:ss) : 00:00:00

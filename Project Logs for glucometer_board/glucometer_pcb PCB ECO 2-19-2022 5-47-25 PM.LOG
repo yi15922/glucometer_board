@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=electrode_counter Pin=amp_counter-1
+Removed Pin From Net: NetName=electrode_ref Pin=amp_counter-2
+Removed Pin From Net: NetName=BIAS Pin=amp_counter-3
+Removed Pin From Net: NetName=3V3 Pin=amp_counter-4
+Removed Pin From Net: NetName=GND Pin=amp_counter-11
+Removed Pin From Net: NetName=3V3 Pin=amp_int-4
+Removed Pin From Net: NetName=output Pin=amp_int-8
+Removed Pin From Net: NetName=mid_voltage Pin=amp_int-10
+Removed Pin From Net: NetName=GND Pin=amp_int-11
+Removed Pin From Net: NetName=3V3 Pin=amp_working-4
+Removed Pin From Net: NetName=mid_voltage Pin=amp_working-5
+Removed Pin From Net: NetName=electrode_working Pin=amp_working-6
+Removed Pin From Net: NetName=Netamp_working_7 Pin=amp_working-7
+Removed Pin From Net: NetName=GND Pin=amp_working-11
+Removed Member From Class: ClassName=glucometer_schematic Member=amp_counter
+Removed Member From Class: ClassName=glucometer_schematic Member=amp_int
+Removed Member From Class: ClassName=glucometer_schematic Member=amp_working
+Change Component Designator: OldDesignator=U? NewDesignator=amp
+Added Pin To Net: NetName=electrode_counter Pin=amp-1
+Added Pin To Net: NetName=electrode_ref Pin=amp-2
+Added Pin To Net: NetName=BIAS Pin=amp-3
+Added Pin To Net: NetName=mid_voltage Pin=amp-5
+Added Pin To Net: NetName=electrode_working Pin=amp-6
+Added Pin To Net: NetName=Netamp_working_7 Pin=amp-7
+Added Pin To Net: NetName=output Pin=amp-8
+Added Pin To Net: NetName=mid_voltage Pin=amp-10
+Change Net Name : Old Net Name=Netamp_working_7 New Net Name=Netamp_7
+Added Pin To Net: NetName=Netamp_9 Pin=amp-9
+Added Pin To Net: NetName=Netamp_9 Pin=C2-2
+Added Pin To Net: NetName=Netamp_9 Pin=R2-2
+Added Net: Name=Netamp_9

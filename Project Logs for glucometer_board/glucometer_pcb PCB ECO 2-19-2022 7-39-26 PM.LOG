@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=P? NewDesignator=debug
+Added Pin To Net: NetName=GND Pin=debug-1
+Added Pin To Net: NetName=SDA Pin=debug-2
+Added Pin To Net: NetName=SCL Pin=debug-3
+Added Pin To Net: NetName=3V_in Pin=debug-4
+Added Pin To Net: NetName=BIAS Pin=debug-5
+Added Pin To Net: NetName=mid_voltage Pin=debug-6
