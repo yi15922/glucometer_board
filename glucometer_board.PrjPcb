@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=
+OutputPath=Project Outputs for glucometer_board
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -114,6 +114,295 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document5]
+DocumentPath=output_job.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for glucometer_board\Design Rule Check - glucometer_pcb.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=.\output_files\glucometer_pcb.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=.\output_files\NC Drill\glucometer_pcb.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for glucometer_board\glucometer_pcb.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=.\output_files\Gerber\glucometer_pcb.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=.\output_files\glucometer_pcb.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for glucometer_board\glucometer_pcb.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=.\output_files\Gerber\glucometer_pcb.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=.\output_files\glucometer_pcb.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for glucometer_board\glucometer_pcb.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=.\output_files\Gerber\glucometer_pcb.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=.\output_files\glucometer_pcb.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for glucometer_board\glucometer_pcb.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=.\output_files\Gerber\glucometer_pcb.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=.\output_files\glucometer_pcb.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for glucometer_board\glucometer_pcb.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=.\output_files\Gerber\glucometer_pcb.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=.\output_files\glucometer_pcb.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for glucometer_board\glucometer_pcb.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for glucometer_board\glucometer_pcb.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=.\output_files\Gerber\glucometer_pcb.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=.\output_files\glucometer_pcb.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for glucometer_board\glucometer_pcb.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=.\output_files\Gerber\glucometer_pcb.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=.\output_files\glucometer_pcb.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for glucometer_board\glucometer_pcb.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=.\output_files\Gerber\glucometer_pcb.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=.\output_files\glucometer_pcb.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for glucometer_board\glucometer_pcb.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=.\output_files\Gerber\glucometer_pcb.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=.\output_files\glucometer_pcb.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for glucometer_board\glucometer_pcb.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=.\output_files\Gerber\glucometer_pcb.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=.\output_files\glucometer_pcb.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for glucometer_board\glucometer_pcb.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=.\output_files\Gerber\glucometer_pcb.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=.\output_files\glucometer_pcb.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for glucometer_board\glucometer_pcb.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=.\output_files\Gerber\glucometer_pcb.GM16
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=.\output_files\glucometer_pcb.GM16
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for glucometer_board\glucometer_pcb.GM16
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=.\output_files\Gerber\glucometer_pcb.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=.\output_files\glucometer_pcb.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for glucometer_board\glucometer_pcb.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=.\output_files\Gerber\glucometer_pcb.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=.\output_files\glucometer_pcb.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for glucometer_board\glucometer_pcb.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=.\output_files\Gerber\glucometer_pcb.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=.\output_files\glucometer_pcb.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for glucometer_board\glucometer_pcb.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=.\output_files\Gerber\glucometer_pcb.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=.\output_files\glucometer_pcb.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for glucometer_board\glucometer_pcb.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=.\output_files\Gerber\glucometer_pcb.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=.\output_files\glucometer_pcb.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for glucometer_board\glucometer_pcb.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=.\output_files\glucometer_pcb.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=.\output_files\NC Drill\glucometer_pcb.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project Outputs for glucometer_board\glucometer_pcb.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=.\output_files\Gerber\glucometer_pcb.REP
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=.\output_files\glucometer_pcb.REP
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project Outputs for glucometer_board\glucometer_pcb.REP
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=.\output_files\Gerber\glucometer_pcb.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=.\output_files\glucometer_pcb.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Project Outputs for glucometer_board\glucometer_pcb.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=.\output_files\glucometer_pcb.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=.\output_files\NC Drill\glucometer_pcb.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Project Outputs for glucometer_board\glucometer_pcb.TXT
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -123,6 +412,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=Project Outputs for glucometer_board
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -335,20 +627,20 @@ Name=Fabrication Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Board Stack Report
-OutputName1=Report Board Stack
+OutputType1=CompositeDrill
+OutputName1=Composite Drill Drawing
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType2=CompositeDrill
-OutputName2=Composite Drill Drawing
+OutputType2=Drill
+OutputName2=Drill Drawing/Guides
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType3=Drill
-OutputName3=Drill Drawing/Guides
+OutputType3=Board Stack Report
+OutputName3=Report Board Stack
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
@@ -359,48 +651,56 @@ OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType5=Gerber
-OutputName5=Gerber Files
+OutputType5=Gerber X2
+OutputName5=Gerber X2 Files
 OutputDocumentPath5=
-OutputVariantName5=[No Variations]
+OutputVariantName5=
 OutputDefault5=0
-OutputType6=Gerber X2
-OutputName6=Gerber X2 Files
+OutputType6=ODB
+OutputName6=ODB++ Files
 OutputDocumentPath6=
-OutputVariantName6=
+OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=IPC2581
-OutputName7=IPC-2581 Files
+OutputType7=Mask
+OutputName7=Solder/Paste Mask Prints
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-OutputType8=Mask
-OutputName8=Solder/Paste Mask Prints
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType8=NC Drill
+OutputName8=NC Drill Files
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
-PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType9=NC Drill
-OutputName9=NC Drill Files
+Configuration8_Name1=ForceUpdateSettings
+Configuration8_Item1=False
+Configuration8_Name2=OutputConfigurationParameter1
+Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes|DocumentPath=C:\Users\yi159\OneDrive\Desktop\glucometer\glucometer_board\glucometer_pcb.PcbDoc
+OutputType9=IPC2581
+OutputName9=IPC-2581 Files
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=ODB
-OutputName10=ODB++ Files
+OutputType10=Plane
+OutputName10=Power-Plane Prints
 OutputDocumentPath10=
-OutputVariantName10=[No Variations]
+OutputVariantName10=
 OutputDefault10=0
-OutputType11=Plane
-OutputName11=Power-Plane Prints
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType11=Test Points
+OutputName11=Test Point Report
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType12=Test Points
-OutputName12=Test Point Report
+OutputType12=Gerber
+OutputName12=Gerber Files
 OutputDocumentPath12=
-OutputVariantName12=
+OutputVariantName12=[No Variations]
 OutputDefault12=0
+Configuration12_Name1=ForceUpdateSettings
+Configuration12_Item1=False
+Configuration12_Name2=OutputConfigurationParameter1
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908290~1,16908291~1,16908293~1,16908301~1,16908303~1,16908304~1,16973837~1,16973848~1,16973849~1|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908290~1,16908291~1,16908293~1,16908301~1,16908303~1,16908304~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=C:\Users\yi159\OneDrive\Desktop\glucometer\glucometer_board\glucometer_pcb.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
@@ -1034,45 +1334,21 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=glucometer_board_components.SCHLIB
-ComponentDesignItemID0=ABX00027
-ComponentSymbolReference0=ABX00027
+ComponentLibraryIdentifier0=glucometer_board_components.IntLib
+ComponentDesignItemID0=strip_connector
+ComponentSymbolReference0=strip_connector
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=glucometer_board_components.SCHLIB
-ComponentDesignItemID1=strip_connector
-ComponentSymbolReference1=strip_connector
-ComponentUpdate1=1
-ComponentIsDeviceSheet1=0
-ComponentLibIdentifierKind2=Library Name Only
-ComponentLibraryIdentifier2=Altium Content Vault
-ComponentDesignItemID2=CMP-0055-00188-3
-ComponentSymbolReference2=AMP-OPA-LF147-14
-ComponentUpdate2=0
-ComponentIsDeviceSheet2=0
-ComponentLibIdentifierKind3=Library Name Only
-ComponentLibraryIdentifier3=Altium Content Vault
-ComponentDesignItemID3=CMP-1659-00065-1
-ComponentSymbolReference3=RES-2
-ComponentUpdate3=0
-ComponentIsDeviceSheet3=0
-ComponentLibIdentifierKind4=Library Name Only
-ComponentLibraryIdentifier4=Altium Content Vault
-ComponentDesignItemID4=CMP-2000-06056-1
-ComponentSymbolReference4=CAP-NP-2
-ComponentUpdate4=0
-ComponentIsDeviceSheet4=0
-FullReplace=1
+FullReplace=0
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
-PreserveParameterLocations=1
-PreserveParameterVisibility=1
+PreserveParameterLocations=0
+PreserveParameterVisibility=0
 DoGraphics=1
 DoParameters=1
 DoModels=1
@@ -1081,181 +1357,19 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Applications
+ParameterName0=Comment
 ParameterUpdate0=1
-ParameterName1=Availability
+ParameterName1=Component Kind
 ParameterUpdate1=1
-ParameterName2=Capacitance
+ParameterName2=Description
 ParameterUpdate2=1
-ParameterName3=Case Code (Imperial)
+ParameterName3=Library Reference
 ParameterUpdate3=1
-ParameterName4=Case Code (Metric)
-ParameterUpdate4=1
-ParameterName5=Case\Package
-ParameterUpdate5=1
-ParameterName6=Catalog Drawings
-ParameterUpdate6=1
-ParameterName7=Category
-ParameterUpdate7=1
-ParameterName8=Code_IPC
-ParameterUpdate8=1
-ParameterName9=Code_JEDEC
-ParameterUpdate9=1
-ParameterName10=Code_JEITA
-ParameterUpdate10=1
-ParameterName11=Comment
-ParameterUpdate11=1
-ParameterName12=Component Kind
-ParameterUpdate12=1
-ParameterName13=ComponentLink1Description
-ParameterUpdate13=1
-ParameterName14=ComponentLink1URL
-ParameterUpdate14=1
-ParameterName15=ComponentLink2Description
-ParameterUpdate15=1
-ParameterName16=ComponentLink2URL
-ParameterUpdate16=1
-ParameterName17=CompType
-ParameterUpdate17=1
-ParameterName18=Current Rating
-ParameterUpdate18=1
-ParameterName19=Datasheet URL
-ParameterUpdate19=1
-ParameterName20=Datasheet Version
-ParameterUpdate20=1
-ParameterName21=DatasheetVersion
-ParameterUpdate21=1
-ParameterName22=Description
-ParameterUpdate22=1
-ParameterName23=DigiKey-Purchase-URL
-ParameterUpdate23=1
-ParameterName24=Family
-ParameterUpdate24=1
-ParameterName25=Features
-ParameterUpdate25=1
-ParameterName26=Height
-ParameterUpdate26=1
-ParameterName27=Height - Seated (Max)
-ParameterUpdate27=1
-ParameterName28=High-Reliability
-ParameterUpdate28=1
-ParameterName29=Lead Spacing
-ParameterUpdate29=1
-ParameterName30=Lead Style
-ParameterUpdate30=1
-ParameterName31=Length
-ParameterUpdate31=1
-ParameterName32=Library Reference
-ParameterUpdate32=1
-ParameterName33=Manufacturer
-ParameterUpdate33=1
-ParameterName34=Manufacturer URL
-ParameterUpdate34=1
-ParameterName35=Max Operating Temperature
-ParameterUpdate35=1
-ParameterName36=MF
-ParameterUpdate36=1
-ParameterName37=Min Operating Temperature
-ParameterUpdate37=1
-ParameterName38=Mount
-ParameterUpdate38=1
-ParameterName39=Mounting Technology
-ParameterUpdate39=1
-ParameterName40=Mounting Type
-ParameterUpdate40=1
-ParameterName41=Mouser-Purchase-URL
-ParameterUpdate41=1
-ParameterName42=MP
-ParameterUpdate42=1
-ParameterName43=Online Catalog
-ParameterUpdate43=1
-ParameterName44=Operating Temperature
-ParameterUpdate44=1
-ParameterName45=Other Names
-ParameterUpdate45=1
-ParameterName46=Package
-ParameterUpdate46=1
-ParameterName47=Package / Case
-ParameterUpdate47=1
-ParameterName48=Package Description
-ParameterUpdate48=1
-ParameterName49=Package Quantity
-ParameterUpdate49=1
-ParameterName50=Package Reference
-ParameterUpdate50=1
-ParameterName51=PackageDescription
-ParameterUpdate51=1
-ParameterName52=PackageReference
-ParameterUpdate52=1
-ParameterName53=PackageTopMarking
-ParameterUpdate53=1
-ParameterName54=Packaging
-ParameterUpdate54=1
-ParameterName55=PartNumber
-ParameterUpdate55=1
-ParameterName56=PCN Design/Specification
-ParameterUpdate56=1
-ParameterName57=PinCount
-ParameterUpdate57=1
-ParameterName58=Pins
-ParameterUpdate58=1
-ParameterName59=PowerWise
-ParameterUpdate59=1
-ParameterName60=Price
-ParameterUpdate60=1
-ParameterName61=Product Training Modules
-ParameterUpdate61=1
-ParameterName62=Radiation Hardening
-ParameterUpdate62=1
-ParameterName63=Ratings
-ParameterUpdate63=1
-ParameterName64=REACH SVHC
-ParameterUpdate64=1
-ParameterName65=Resistance
-ParameterUpdate65=1
-ParameterName66=RoHS
-ParameterUpdate66=1
-ParameterName67=RoHSCompliant
-ParameterUpdate67=1
-ParameterName68=Series
-ParameterUpdate68=1
-ParameterName69=Shielding
-ParameterUpdate69=1
-ParameterName70=Size / Dimension
-ParameterUpdate70=1
-ParameterName71=SnapEDA_Link
-ParameterUpdate71=1
-ParameterName72=Standard Package
-ParameterUpdate72=1
-ParameterName73=Temperature Coefficient
-ParameterUpdate73=1
-ParameterName74=Thickness (Max)
-ParameterUpdate74=1
-ParameterName75=Tolerance
-ParameterUpdate75=1
-ParameterName76=Value
-ParameterUpdate76=1
-ParameterName77=Voltage - Rated
-ParameterUpdate77=1
-ParameterName78=Width
-ParameterUpdate78=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=KEMT-C330C105M5U5TA
+ModelName0=strip_connector
 ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=MODULE_ABX00027
-ModelUpdate1=1
-ModelType2=PCBLIB
-ModelName2=NFF0014A
-ModelUpdate2=1
-ModelType3=PCBLIB
-ModelName3=RESA60-630X240
-ModelUpdate3=1
-ModelType4=PCBLIB
-ModelName4=strip_connector
-ModelUpdate4=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
